@@ -78,4 +78,7 @@ For example, 327 of the (327 + 164) = 491 Data scientist/engineers in the test s
 
 8. Explain the results of (7) in terms of fairness in AI decision-making: are there differences
 among the groups in terms of precision, recall, or the false positive rates?
-[2 points]
+
+* Companies can determine how to compensate their employees.
+* Employees can figure out what to expect from cpanies, compensation wise.
+* Countries can deetermine what sectors are struggling, thriving; how to help the industry grow.
